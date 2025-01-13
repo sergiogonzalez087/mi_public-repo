@@ -1,2 +1,3 @@
 *.sql filter=lfs diff=lfs merge=lfs -text
 dump_netbox_prod_26_12.sql filter=lfs diff=lfs merge=lfs -text
+netbox_dump_09_01.sql filter=lfs diff=lfs merge=lfs -text
